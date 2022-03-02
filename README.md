@@ -14,13 +14,13 @@
 |--- |--- |
 | %c | Print a single character. |
 | %s | Print a string of characters.	|
-| %p | The void * pointer argument is printed in hexadecimal. |
+| %p | print the address of a variable in hexadecimal format.|
 | %d | Print a decimal (base 10) number. |
 | %i | Print an integer in base 10. |
-| %u | Print an unsigned decimal (base 10) number. |
-| %x | Print a number in hexadecimal (base 16, lowercase).|
-| %X | Hex integer (uppercase). |
-| %% | Just the %. |				|
+| %u | Print an unsigned integer. |
+| %x | Print a number in hexadecimal ( lowercase).|
+| %X | Print a number in hexadecimal ( uppercase).|
+| %% | caractère %. |				|
 
 ---
 
