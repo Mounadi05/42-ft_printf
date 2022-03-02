@@ -1,9 +1,9 @@
-<h2 align="center">
-	:anger: <i>ft_printf : A new headache was born.</i>
+<h1 align="center">
+	 <i>This project aims at recode the printf library with basic functionality.</i>
 
 ---
 <h3 align=center>
-:dart: Mandatory :
+	Mandatory :
 </h3>
 
 ---
